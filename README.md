@@ -6,7 +6,8 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ---
 
@@ -52,52 +53,54 @@ https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
 # 🛠️ Tools & Technologies
 
-- PostgreSQL
 - Python
+- PostgreSQL
 - Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Scikit-learn
-- Tableau
-- Jupyter Notebook
+- Scikit-Learn
+- Power BI
+- Streamlit
 
 ---
 
-# 🔄 Project Workflow
+# 🏗️ Project Architecture
 
-```text
+```
 8 CSV Files
-      │
-      ▼
-PostgreSQL Data Integration
-      │
-      ▼
-Data Cleaning
-      │
-      ▼
-Feature Engineering
-      │
-      ▼
-Exploratory Data Analysis
-      │
-      ▼
-Cohort Analysis
-      │
-      ▼
-K-Means Clustering
-      │
-      ▼
+        │
+        ▼
+ PostgreSQL
+(Data Integration)
+        │
+        ▼
+ Python
+(Data Cleaning & Feature Engineering)
+        │
+        ▼
+EDA + Cohort Analysis + K-Means
+        │
+        ▼
+Power BI Dashboard
+        │
+        ▼
 Business Insights
-      │
-      ▼
-Business Recommendations
+```
 ```
 
 ---
 
-# 📊 Dashboard
+# 📊 Live Dashboard
 
+Explore the interactive dashboard here:
+
+**🚀 Streamlit Dashboard**
+
+https://your-streamlit-link.streamlit.app/
+
+---
+
+### Dashboard Preview
+
+![Dashboard](Dashboard img/dashboard.png)
 
 ---
 
@@ -183,20 +186,34 @@ Customer-Retention-Analysis
 
 This project demonstrates how customer analytics can help businesses:
 
-- Improve customer retention.
-- Increase repeat purchases.
-- Identify high-value customer segments.
-- Support targeted marketing strategies.
-- Enable data-driven business decisions.
+✔ Improve customer retention through targeted engagement strategies.
+✔ Increase repeat purchase opportunities.
+✔ Optimize delivery experience to improve customer satisfaction.
+✔ Prioritize marketing investment toward high-value customer segments.
+✔ Support data-driven decision making through interactive dashboards.
 
 ---
+
+# 🧠 Skills Demonstrated
+
+- SQL Data Integration
+- Data Cleaning
+- Feature Engineering
+- Exploratory Data Analysis
+- Cohort Analysis
+- K-Means Clustering
+- Customer Segmentation
+- Business Intelligence
+- Dashboard Development
+- Data Storytelling
 
 # 👩‍💻 Author
 
 **Jessica Agnesia Tataung**
 
 - LinkedIn: https://www.linkedin.com/in/jessicaagnesiat/
-- Portfolio: https://jessicaagnesiat.github.io/portofolio-data-scientist/
+🌐 Portfolio Website:
+https://jessicaagnesiat.github.io/portofolio-data-scientist/
 
 ---
 
