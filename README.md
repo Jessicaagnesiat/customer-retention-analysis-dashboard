@@ -90,20 +90,26 @@ Business Insights
 
 # 📊 Live Dashboard
 
-Explore the interactive dashboard here:
+🚀 **Interactive Dashboard**
 
-**🚀 Streamlit Dashboard**
-
-https://your-streamlit-link.streamlit.app/
+**Streamlit**
+https://customer-retention-analysis-dashboard-jessica.streamlit.app/
 
 ---
 
-### Dashboard Preview
+## Dashboard Preview
 
-![Dashboard](Dashboard img/1.png)
-![Dashboard](Dashboard img/2.png)
-![Dashboard](Dashboard img/3.png)
+### Business Performance Overview
 
+![Overview](Dashboard%20img/1.png)
+
+### Product Performance
+
+![Product](Dashboard%20img/2.png)
+
+### Customer Retention & Segmentation
+
+![Customer](Dashboard%20img/3.png)
 ---
 
 # 📈 Project Results
