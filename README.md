@@ -193,9 +193,13 @@ Customer-Retention-Analysis
 This project demonstrates how customer analytics can help businesses:
 
 ✔ Improve customer retention through targeted engagement strategies.
+
 ✔ Increase repeat purchase opportunities.
+
 ✔ Optimize delivery experience to improve customer satisfaction.
+
 ✔ Prioritize marketing investment toward high-value customer segments.
+
 ✔ Support data-driven decision making through interactive dashboards.
 
 ---
