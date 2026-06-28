@@ -93,7 +93,7 @@ Business Insights
 🚀 **Interactive Dashboard**
 
 **Streamlit**
-https://customer-retention-analysis-dashboard-jessica.streamlit.app/
+[https://customer-retention-analysis-dashboard-jessica.streamlit.app/]
 
 ---
 
@@ -225,5 +225,3 @@ This project demonstrates how customer analytics can help businesses:
 https://jessicaagnesiat.github.io/portofolio-data-scientist/
 
 ---
-
-⭐ If you found this project useful, feel free to give it a star!
