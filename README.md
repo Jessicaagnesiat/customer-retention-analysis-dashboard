@@ -100,7 +100,9 @@ https://your-streamlit-link.streamlit.app/
 
 ### Dashboard Preview
 
-![Dashboard](Dashboard img/dashboard.png)
+![Dashboard](Dashboard img/1.png)
+![Dashboard](Dashboard img/2.png)
+![Dashboard](Dashboard img/3.png)
 
 ---
 
