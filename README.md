@@ -64,7 +64,7 @@ https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
 # 🏗️ Project Architecture
 
-```
+```text
 8 CSV Files
         │
         ▼
@@ -84,9 +84,10 @@ Power BI Dashboard
         ▼
 Business Insights
 ```
-```
 
 ---
+
+# 📊 Live Dashboard
 
 # 📊 Live Dashboard
 
