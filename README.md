@@ -212,6 +212,7 @@ This project demonstrates how customer analytics can help businesses:
 **Jessica Agnesia Tataung**
 
 - LinkedIn: https://www.linkedin.com/in/jessicaagnesiat/
+  
 🌐 Portfolio Website:
 https://jessicaagnesiat.github.io/portofolio-data-scientist/
 
