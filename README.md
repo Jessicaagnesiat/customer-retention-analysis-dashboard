@@ -92,8 +92,7 @@ Business Insights
 
 🚀 **Interactive Dashboard**
 
-**Streamlit**
-[https://customer-retention-analysis-dashboard-jessica.streamlit.app/]
+https://customer-retention-analysis-dashboard-jessica.streamlit.app/
 
 ---
 
